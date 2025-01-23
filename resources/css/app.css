@@ -1,0 +1,13 @@
+/* resources/css/app.css или в вашем проекте */
+.table th, .table td {
+    text-align: center;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
